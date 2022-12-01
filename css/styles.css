@@ -144,7 +144,7 @@ img {
   border-radius: 2px;
   display: block;
   position: absolute;
-  bottom: 0;
+  bottom: -1px;
 }
 
 .current-portfolio::after {
